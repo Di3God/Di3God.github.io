@@ -1,0 +1,153 @@
+---
+title: "SOBRE LA INGENIERÍA ECONÓMICA"
+#author: "Diego"
+format:
+  revealjs: 
+    theme: [default, custom.scss]
+    preview-links: auto
+    slide-number: true
+    chalkboard:
+      buttons: false
+    toc: false
+    toc-title: "Indice"
+    incremental: false
+    width: 1350
+    height: 850
+    margin: 0.05
+    background-size: contain
+---
+
+## El Perú como sociedad sigma
+
+**La teoría  de la exclusión**  predice  que el grado  de desarrollo  de los países capitalistas depende de las condiciones  iniciales con las que partieron.
+
+La clase propietaria y la clase media (profesionales) apenas representan 5% de la población.
+
+Por las siguientes estadísticas se puede considerar al Perú como una **SOCIEDAD SIGMA.**
+
+
+:::: {.columns }
+
+::: {.column width="55%"}
+### La pirámide socio-económica
+
+**Se distribuye de la siguiente manera :**
+
+1. Pequeña élite y clase media : **5%**
+
+2. Trabajadores que residen en Lima : **16%**
+
+3. Trabajadores de la sierra y selva : **38%**
+
+4. Campesinos de la sierra y selva : **31%**
+:::
+
+::: {.column width="45%"}
+### Exclusión de la población
+
+- Las grandes empresas obtienen 50% del crédito bancario total.
+
+- Indice de Gini en Perú 0.60 , en  Latinoamérica 0.50 y en países desarrollados 0.33. En el periodo 1950 -1990.
+
+- Desde 1821 hasta 1990 , tuve 120 gobiernos y solo 40 democráticos.
+
+- El gasto púlico se concentra en Lima-Callao (70% PP)
+:::
+
+::::
+
+
+
+## Derechos y desarrollo
+
+La teoría de la exclusión sugiere la reorganización o refundación de la sociedad para salir del equilibrio de bajo nivel en que se encuentra. Se trata de crear nuevas condiciones iniciales. 
+
+:::: {.columns }
+
+::: {.column width="55%"}
+
+- Modificar  la desigual dotación de activos (Económicos , Políticos y Culturales )
+
+- **Desarrollo Humano**
+
+- Para  generar  mayores  ingresos  y  salir  de  su  pobreza,  los  pobres  necesitan  de  todo. 
+  - Capital Físico
+  - Capital Humano
+  - **Capital Financiero**  
+
+
+
+:::
+
+::: {.column width="45%"}
+#### ¿Por qué los gobiernos no financian la salida de la pobreza? 
+
+- Política de redistribución que los ricos transfieran parte de sus ingresos a los pobres.
+
+- La élite se opondría y presionaría al Gobierno.
+
+#### ¿Cómo puede escapar la sociedad de esta trampa de subdesarrollo? 
+
+- Aumentar los activos de lo pobres en la forma de derechos.
+
+- Incrementar el acceso a la Información
+
+:::
+
+::::
+
+## La visión convencional
+
+**En Perú falta un mayor stock de capital físico : ** 
+Con más capital habría un aumento en la productividad laboral y las firmas aumentarían su demanda de trabajo y se podría reducir la sobrepoblación.
+
+
+### ¿Por qué no hay más inversiones en capital físico?
+
+:::: {.columns }
+
+::: {.column width="50%"}
+
+#### Teoría convencional 
+
+- Malas políticas  macro-económicas  que siguen los gobiernos
+
+:::
+
+::: {.column width="50%"}
+
+#### La teoría de la exclusión
+
+- El Perú no está en la capacidad de atraer mayores inversiones debido a su alto grado de inestabilidad política.
+
+#### ¿Por qué existe esta inestabilidad?  
+
+- Porque el Perú es un país muy desigual.
+
+
+:::
+
+::::
+
+### ¿por  qué  no  hay  más  inversiones  en  capital  humano?
+
+- 85% de la matrícula escolar está en escuelas públicas.
+
+
+## Conclusiones
+
+- Países que partieron como  sociedades  muy  desiguales  y  heterogéneas tendrán mayores  dificultades  para  desarrollarse.
+
+- El capitalismo funciona con inclusiones y exclusiones a la vez.
+
+- Su escasa dotación de activos políticos convierte a los pobres en ciudadanos de segunda categoría.
+
+- Establecer  un conjunto  de derechos  sería el mecanismo  que llevaría  a una  refundación  de  la sociedad. El agente  innovador  tendría  que ser un agente  externo  que trabajando  con los actores sociales pueda     inducir  la  adopción  de  las innovaciones.
+
+
+
+
+
+
+
+

@@ -1,0 +1,124 @@
+/*-- scss:defaults --*/
+
+// fonts
+$font-family-sans-serif: "Trebuchet MS", sans-serif,
+  FreeSerif, serif !default;
+
+// colors
+$body-bg: #e1ebf5  !default;
+$body-color: #2c64ab !default;
+$link-color: #2c64ab !default;
+$selection-bg: rgba(0, 0, 0, 0.99);
+$presentation-font-smaller: 4em;
+$presentation-font-size-root: 32px;
+$presentation-heading-text-transform: uppercase !default;
+$presentation-h1-text-shadow: 0 1px 0 #ccc, 0 2px 0 #c9c9c9, 0 3px 0 #bbb,
+  0 4px 0 #b9b9b9, 0 5px 0 #aaa, 0 6px 1px rgba(0, 0, 0, 0.1),
+  0 0 5px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.3),
+  0 3px 5px rgba(0, 0, 0, 0.2), 0 5px 10px rgba(0, 0, 0, 0.25),
+  0 20px 20px rgba(0, 0, 0, 0.15) !default;
+
+$input-panel-bg: rgba(233, 236, 239, 0.2) !default;
+$light-bg-text-color:	#e8da5e;
+
+
+
+/* Headings */
+
+h1{ font-size:2.5em; }
+h2{ font-size:3em;  border-bottom: 2px solid #CCC; padding-bottom: 15px; }
+h3{ font-size:1.5em; }
+
+
+
+/*-- scss:rules --*/
+
+
+.reveal a {
+  line-height: 1.1em;
+}
+
+/* Elements */
+p{
+  margin:1em 0em;
+  text-align: justify;
+}
+
+img{
+  max-width:100%;
+  border: 0; 
+  -ms-interpolation-mode: bicubic; 
+  vertical-align: middle;
+}
+
+/* Lists */
+ul, ol { 
+  margin: 1em 0; 
+  padding: 0 0 0 2em; 
+}
+
+ol li {
+  list-style-type: decimal; 
+  padding-bottom: 0.50em;
+}
+
+ul li {
+  list-style-type: disc; 
+  padding-bottom: 0.50em;
+}
+
+li p:last-child { 
+  margin:0 
+}
+
+dd { 
+  margin: 0 0 0 2em; 
+}
+
+
+/* Tables */
+table { 
+  border-collapse: collapse; 
+  border-spacing: 0; 
+  width: 100%;
+  
+}
+
+td { 
+  vertical-align: top; 
+}
+
+table th {
+  font-weight: 700;
+}
+
+table th, table td {
+  border: 1px solid #ccc;
+  padding: 6px 13px;
+}
+
+table tr {
+  border-top: 1px solid #ccc;
+  background-color: #e1ebf5;
+}
+
+table tr:nth-child(2n) {
+  background-color: #f8f8f8;
+}
+
+/* Links */
+a{ 
+  color: #2c64ab; 
+  text-decoration:none;
+}
+a:visited{ color: #2c64ab; }
+a:hover{ color: #06e; }
+a:active{ color:#2c64ab; }
+a:focus{ outline: thin dotted; }
+a:hover, a:active{ outline: 0; }
+
+::-moz-selection{background:rgba(255,255,0,0.3);color:#000}
+::selection{background:rgba(255,255,0,0.3);color:#000}
+
+a::-moz-selection{background:rgba(255,255,0,0.3);color:#0645ad}
+a::selection{background:rgba(255,255,0,0.3);color:#0645ad}
